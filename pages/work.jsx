@@ -5,7 +5,7 @@ import Portfolio from '../components/Portfolio'
 const work = () => {
   return (
     <div>
-        <Hero heading='Services' message='The following are some of the services I offer.' />
+        <Hero heading='Services' message='The following are the services I offer.' />
         <Portfolio />
     </div>
   )

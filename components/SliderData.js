@@ -35,5 +35,29 @@ export const SliderData = [
       image:
         '/slider9.jpg',
     },
+            {
+      image:
+        '/slider10.jpg',
+    },
+                {
+      image:
+        '/slider11.jpg',
+    },
+                    {
+      image:
+        '/slider12.jpg',
+    },
+                    {
+      image:
+        '/slider13.jpg',
+    },
+                    {
+      image:
+        '/slider14.jpg',
+    },
+                    {
+      image:
+        '/slider15.jpg',
+    },
   ];
   
