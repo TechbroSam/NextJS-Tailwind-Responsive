@@ -14,7 +14,7 @@ const Instagram = () => {
       <p className="text-2xl font-bold">Follow me on Instagram</p>
       <Link href="https://www.instagram.com/teemediaa/" target="_blank" rel="noopener noreferrer" passHref>
         <div className="pb-4">
-          teemediaa
+          @teemediaa
         </div>
       </Link>
 
