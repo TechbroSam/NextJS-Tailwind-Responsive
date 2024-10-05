@@ -12,10 +12,10 @@ const Instagram = () => {
   return (
     <div className="max-w-[1240px] mx-auto text-center py-24">
       <p className="text-2xl font-bold">Follow me on Instagram</p>
-      <Link href="https://www.instagram.com/teemediaa/" passHref>
-        <a target="_blank" rel="noopener noreferrer" className="pb-4">
+      <Link href="https://www.instagram.com/teemediaa/" target="_blank" rel="noopener noreferrer" passHref>
+        <div className="pb-4">
           teemediaa
-        </a>
+        </div>
       </Link>
 
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-2 p-4">
